@@ -1,0 +1,42 @@
+baseURL = "https://hotukasim.github.io/"
+languageCode = "en-us"
+title = "HotuKasim"
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  description = "Computer Science student interested in systems programming, operating systems, Linux, and cybersecurity."
+  author = "Hotu Kasim"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowShareButtons = false
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm hotukasim."
+    Content = "Computer Science student exploring systems programming, operating systems, Linux, and low-level security."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/hotukasim"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 30
