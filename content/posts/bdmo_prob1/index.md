@@ -1,12 +1,16 @@
-title: "জ্যামিতি সমস্যা( BdMO Regional Geometry Problem)"
+---
+title: "জ্যামিতি সমস্যা (BdMO Regional Geometry Problem)"
 date: 2026-10-14
-draft: false
-description: "C language-এ pointer ও memory address-এর প্রাথমিক ধারণা।"
+draft: true
+description: "BdMO Regional Geometry Problem-এর জ্যামিতিক সমাধান।"
 tags: ["Problem Solving", "Math"]
-
 ---
 
+BdMO Regional Geometry Problem-এর জ্যামিতিক সমাধান।
 
+<!--more-->
+![জ্যামিতির চিত্র](/images/ss.png)
+![জ্যামিতির চিত্র](/images/ss2.png)
 \(B,G\) যোগ করি এবং \(GH \perp BD\) আঁকি।
 
 যেহেতু \(GH \parallel CD\),
