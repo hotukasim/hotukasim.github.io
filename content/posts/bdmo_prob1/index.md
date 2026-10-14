@@ -1,7 +1,7 @@
 ---
 title: "জ্যামিতি সমস্যা (BdMO Regional Geometry Problem)"
 date: 2026-10-14
-draft: true
+draft: false
 description: "BdMO Regional Geometry Problem-এর জ্যামিতিক সমাধান।"
 tags: ["Problem Solving", "Math"]
 ---
